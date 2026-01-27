@@ -1,55 +1,52 @@
 # Ben Atkinson  
-**Director, Zeta Protocol**  
-_Architecting invisible intelligence systems. PhantomNet | ALFRED | SecureVision | Panic Protocol_  
+**Founder & Director — The Lumen Framework**  
+_Ethics-first technology studio_
 
-![Zeta Protocol Glyph](https://raw.githubusercontent.com/benatkinson-dev/assets/main/zeta-logo.png)
-
----
-
-### // Operational Overview
-
-I'm a systems engineer and software developer building the future of integrated AI and autonomous infrastructure. My work spans secure smart home systems, decentralized node networks, and covert media pipelines—operating under the codename: **Zeta Protocol**.
-
-> _Invisible. Instant. Everywhere._
+![Lumen / Zeta Glyph](https://raw.githubusercontent.com/benatkinson-dev/assets/main/zeta-logo.png)
 
 ---
 
-### // Projects
+## About
 
-- **Zeta Protocol** — core AI infrastructure & internal command suite
-- **PhantomNet** — encrypted node-to-node mesh for secure automation
-- **ALFRED** — responsive home AI assistant with multi-modal control
-- **SecureVision 3000** — stealth camera + facial recognition system
-- **Panic Protocol** — failsafe lockdown & threat response system
-- **Zeta Media Grid** — IPTV, VOD, Jellyfin integrations with full immersion
+I’m a systems-minded developer and technologist building **calm, trustworthy tools** for people — especially in spaces where technology is often noisy, invasive, or poorly designed.
 
----
+I founded **The Lumen Framework**, an ethics-first technology studio focused on thoughtful software, humane automation, and systems that respect privacy, agency, and mental wellbeing.
 
-### // Tech Arsenal
+My work blends engineering, design, and long-term thinking — less about disruption, more about **quiet reliability**.
 
-```bash
-Languages:       Python · Java · Swift · C++
-Stack:           Node.js · React · Tailscale · Homebridge · ffmpeg · MQTT
-Systems:         macOS · iOS · Raspberry Pi · Unix · Docker
-Tooling:         GitHub · Notion API · Cronometer · Apple Health · OBS
-```
+> *Light where it’s needed most.*
 
 ---
 
-### // Engagement Mode
+## The Lumen Framework
 
-I operate across development, system architecture, and intelligence design—whether writing code, training AI, or automating the shadows behind a wall of glass.
+**The Lumen Framework (TLF)** is a small, values-led technology studio.  
+We build tools that are:
 
-- **Website:** [benatkinson.dev](https://benatkinson.dev)
-- **HQ:** Zeta Labs, London
-- **Transmission Frequency:** `@benatkinsondev`
+- 🧭 **Ethics-first** — people over profit, always  
+- 🌗 **Calm by design** — no dark patterns, no manipulation  
+- 🔐 **Privacy-respecting** — local-first where possible  
+- 🛠️ **Built to last** — maintainable, understandable systems  
+
+Some projects are public. Some are internal. All are designed with care.
+
+---
+
+## Selected Work
+
+- **TLF Core** — shared architecture, values, and design systems  
+- **Home & Personal Automation** — local-first smart systems  
+- **Media & Knowledge Tools** — self-hosted, user-controlled platforms  
+- **Research & Prototyping** — AI, human-centred interfaces, calm UX  
+
+(Names and implementations evolve — the philosophy doesn’t.)
 
 ---
 
-> _“Every signal leaves a trace. Mine disappear.”_
+## Technical Focus
 
-```
-[ACTIVE NODE: zeta@protocol · Clearance: Director Tier-7]
-```
-
----
+```text
+Languages:   Python · Java · Swift · C++
+Systems:    macOS · Linux · iOS · Docker · Raspberry Pi
+Practices:  Automation · Secure Systems · Local-first Design
+Interests:  Human-centred tech · Ethics · Calm computing
