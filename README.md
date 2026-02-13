@@ -2,8 +2,6 @@
 **Founder & Director — The Lumen Framework**  
 _Ethics-first technology studio_
 
-![Lumen / Zeta Glyph](https://raw.githubusercontent.com/benatkinson-dev/assets/main/zeta-logo.png)
-
 ---
 
 ## About
